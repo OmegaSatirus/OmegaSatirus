@@ -1,10 +1,49 @@
+<div>
+  
+  <h1 align="center">
+    Hey, what's up? I am 
+    <a href="https://www.linkedin.com/in/marcoantpimenta/">João Cristiano 😃️</a>
+  </h1>
+    <IMG height="400em" align=left SRC="programming.svg" alt="developer"/>
+  
 
-![Omega Satirus GitHub stats](https://github-readme-stats.vercel.app/api?username=OmegaSatirus&show_icons=true&theme=dracula) <br>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
+  
+</div>
 
+<div align="center">
+  <a href="https://github.com/OmegaSatirus">
+    <img height="180em" width="381em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OmegaSatirus&&show_icons=true&theme=tokyonight"/>
+    <br/>
+    <img height="180em" width="381em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OmegaSatirus&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=8"/>
+  </a>
+  
+</div>
+  <p align="center">
+  <br>
+    </p>
+<div align="center" valign="top"><br>
+  <p align="center">
+    💻I'm a Webdev💻
+    </p>
+  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-javascript.svg">
+</div><br>
 
+<div align="center">
+    <a href="https://www.instagram.com/jc.tws_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcoantpimenta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:cristianorodriguespimenta240@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
+<div align="center">
 
+![Snake animation](https://github.com/OmegaSatirus/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+</div>
